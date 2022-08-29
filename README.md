@@ -10,9 +10,13 @@ since i just Fully recovered from Heavy Flu at 28 Aug 2022
 
 to run:
 ```
-start emulator / connect adb device to usb(real device)
+start emulator / connect device to usb(real device)
 
 make run
+
+or for clean run
+
+make run clean=true
 ```
 
 ## Run Unit Test
